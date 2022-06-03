@@ -2,7 +2,7 @@
 
 It's Kshitij, a Software Developer based out of Gurgaon.
 
-![Views](https://guxte6x7nmrvjezwz7dr3bimne0cqchs.lambda-url.ap-south-1.on.aws/kshtj21)
+![Views](https://guxte6x7nmrvjezwz7dr3bimne0cqchs.lambda-url.ap-south-1.on.aws/kshtj24)
 ![Profile views](https://gpvc.arturio.dev/kshtj21)
 <!--
 **kshtj24/kshtj24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
