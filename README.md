@@ -8,4 +8,4 @@ It's Kshitij, a Software Developer based out of Gurgaon.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshtj24&hide=assembly&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kshtj24)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kshtj24)
